@@ -5,7 +5,7 @@
 - **Manager**
     | Use-case | Go to |
     | ------ | ------ |
-    | 1. Login (For all users) | [Login](1.%20Login) |
+    | 1. Login (For all users) | Log in for using all features |
     | 2. Manage Courses | Insert/Update/Delete Courses  |
     | 2.1. Manage Chapters | Insert/Update/Delete Chapters in a Course|
     | 3. Manage Classes | Insert/Update/Delete Classes |
@@ -37,3 +37,5 @@
     | 13. View Classes | View the classes that the student has participated in |
     | 13.1. View Lessons | View the lessons taught in the class |
     | 13.1.1. View Materials | Search/Download the attached materials for each lesson. |
+
+## **All use-case specification and Activity Diagram: [_Click here for details_](/Use-case%20Specification%20and%20Activity%20Diagram/UC-Spec&Activity-DG.pdf)**
