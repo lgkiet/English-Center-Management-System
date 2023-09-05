@@ -128,12 +128,12 @@ This is my personal project, carried out with other team members in the same cou
 ## 🔎 **Analysis and Design**
 | Diagram | GO TO |
 | ------ | ------ |
-| Use-case Diagram | [link to Use-case DG](Use-case) |
-| Use-case Specification and Activity Diagram | [plugins/github/README.md][PlGh] |
-| Sequence Diagram and Class Diagram | [plugins/googledrive/README.md][PlGd] |
-| Class Diagram and Entity Class Diagram | [plugins/onedrive/README.md][PlOd] |
-| State Diagram | [plugins/medium/README.md][PlMe] |
-| Mapping to Relational Model from Entity Class Diagram | [plugins/googleanalytics/README.md][PlGa] |
+| Use-case Diagram | [link](1.%20Use-case/) |
+| Use-case Specification and Activity Diagram | [link](2.%20Use-case%20Specification%20and%20Activity%20Diagram/) |
+| Sequence Diagram and Class Diagram | [link](3.%20Sequence%20Diagram%20and%20Class%20Diagram/) |
+| Class Diagram and Entity Class Diagram | [link](4.%20Class%20Diagram%20and%20Entity%20Class%20Diagram/) |
+| State Diagram | [link](5.%20State%20Diagram/) |
+| Mapping to Relational Model from Entity Class Diagram | [link](6.%20Mapping%20to%20Relational%20Model%20from%20Entity%20Class%20Diagram/) |
 ## 🛠 **Implementation and Testing**
 - ### Implementation environment
     - Operating System: Window 11 / MacOS Ventura
@@ -144,9 +144,5 @@ This is my personal project, carried out with other team members in the same cou
 - ### User Interface
     | Diagram | GO TO |
     | ------ | ------ |
-    | Use-case Diagram | [plugins/dropbox/README.md][PlDb] |
-    | Use-case Specification and Activity Diagram | [plugins/github/README.md][PlGh] |
-    | Sequence Diagram and Class Diagram | [plugins/googledrive/README.md][PlGd] |
-    | Class Diagram and Entity Class Diagram | [plugins/onedrive/README.md][PlOd] |
-    | State Diagram | [plugins/medium/README.md][PlMe] |
-    | Mapping to Relational Model from Entity Class Diagram | [plugins/googleanalytics/README.md][PlGa] |
+    | User Interface| [link](7.%20User%20Interface/) |
+
