@@ -145,6 +145,10 @@ This is my personal project, carried out with other team members in the same cou
     | ------ | ------ |
     | User Interface| [link](7.%20User%20Interface/) |
 
+## 📜 Useful links
+
+- [_Figma design_](https://www.figma.com/file/pM0MNgqKj6pD2Acfm1y7B4/Remove-BG-(Community)?type=design&node-id=0%3A1&mode=design&t=QLmURxCytRMBPhed-1)
+
 ## 🤝 Contribution
     
 | Member | Contributions |
