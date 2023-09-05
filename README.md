@@ -146,3 +146,13 @@ This is my personal project, carried out with other team members in the same cou
     | ------ | ------ |
     | User Interface| [link](7.%20User%20Interface/) |
 
+## 🤝 Contribution
+    
+| Member | Contributions |
+| ------ | ------ |
+| Le Quoc Khanh | Main developer, System architect and  Project manager|
+| Le Gia Kiet | System Analyst and Design, UI/UX Design and Project sub-manager |
+| Ninh Thien Bao | Deverloper, Database adminstrator and Reporter |
+| Nguyen Thi Thuy | Main Reporter and Testing
+
+## 📧 Contact [Here !](g.kietle@gmail.com)
