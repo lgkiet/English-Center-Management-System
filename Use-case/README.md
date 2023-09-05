@@ -43,4 +43,4 @@
         | 13.1. View Lessons | View the lessons taught in the class |
         | 13.1.1. View Materials | Search/Download the attached materials for each lesson. |
 - **Use-case diagram**
-    [Download Sample PDF](/Use-case_Manager_Details.png)
+    [Download Sample PDF](Use-case_Manager_Details.png)
