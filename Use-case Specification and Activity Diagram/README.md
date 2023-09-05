@@ -5,7 +5,7 @@
 - **Manager**
     | Use-case | Go to |
     | ------ | ------ |
-    | 1. Login (For all users) | [Login](1.%20Login/UC-Specification.png) |
+    | 1. Login (For all users) | [Login](1.%20Login) |
     | 2. Manage Courses | Insert/Update/Delete Courses  |
     | 2.1. Manage Chapters | Insert/Update/Delete Chapters in a Course|
     | 3. Manage Classes | Insert/Update/Delete Classes |
