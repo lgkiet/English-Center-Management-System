@@ -43,7 +43,8 @@
         | 13.1. View Lessons | View the lessons taught in the class |
         | 13.1.1. View Materials | Search/Download the attached materials for each lesson. |
 - **Use-case diagram**
-    [Use-case Diagram for Manager in general](Use-case_Manager_General.png)
-    [Use-case Diagram for Manager in details](Use-case_Manager_Details.png)
-    [Use-case Diagram for User in general](Use-case_User_General.png)
-    [Use-case Diagram for User in details](Use-case_User_Details.png)
+    - [Use-case Diagram for Manager in general](Use-case_Manager_General.png)
+	- [Use-case Diagram for Manager in details](Use-case_Manager_Details.png)
+	- [Use-case Diagram for User in general](Use-case_User_General.png)
+    - [Use-case Diagram for User in details](Use-case_User_Details.png)
+    
