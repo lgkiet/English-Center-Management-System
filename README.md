@@ -128,7 +128,7 @@ This is my personal project, carried out with other team members in the same cou
 ## 🔎 **Analysis and Design**
 | Diagram | GO TO |
 | ------ | ------ |
-| Use-case Diagram | [plugins/dropbox/README.md][PlDb] |
+| Use-case Diagram | [link to Use-case DG](Use-case) |
 | Use-case Specification and Activity Diagram | [plugins/github/README.md][PlGh] |
 | Sequence Diagram and Class Diagram | [plugins/googledrive/README.md][PlGd] |
 | Class Diagram and Entity Class Diagram | [plugins/onedrive/README.md][PlOd] |
