@@ -38,5 +38,5 @@
     | 13.1. View Lessons | View the lessons taught in the class |
     | 13.1.1. View Materials | Search/Download the attached materials for each lesson. |
 
-## **All use-case specification and Activity Diagram: [_Click here for details_](/Use-case%20Specification%20and%20Activity%20Diagram/UC-Spec&Activity-DG.pdf)**
+## **All use-case specification and Activity Diagram: [_Click here for details_](https://github.com/lgkiet/English-Center-Management-System/blob/main/2.%20Use-case%20Specification%20and%20Activity%20Diagram/UC-Spec%26Activity-DG.pdf)**
 120 -> 143
